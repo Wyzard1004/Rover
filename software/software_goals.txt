@@ -1,0 +1,6 @@
+Goals: 
+1. Create baseline control system of Rover
+2. Train AI to control Rover
+	a) Computer vision to identify obstacles and plan a path
+	b) Optimize actuator control for energy efficiency
+
